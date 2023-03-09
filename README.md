@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DawisonXD
+- 👋 Hi, I’m @DavidDumitru
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on different web applications
